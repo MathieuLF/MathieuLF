@@ -2,9 +2,11 @@
 
 Je suis technicien comptable le jour, développeur web autodidacte le reste du temps.
 
-Je crée des outils web simples et solides : sites, automatisations, données, intégrations et petits systèmes faciles à utiliser.
+Je bidouille, je m'amuse et je développe surtout des apps privées, avec quelques projets publics quand ça s'y prête.
 
-I build simple, solid web tools: sites, automations, data workflows and small systems that stay easy to use.
+Mon terrain de jeu : web, automatisation, données, intégrations et outils maison.
+
+I build simple, solid web tools: sites, automations, data workflows, integrations and small private apps that stay easy to use.
 
 ## Ce que je touche
 
@@ -20,6 +22,6 @@ I build simple, solid web tools: sites, automations, data workflows and small sy
 
 ## Soutenir
 
-Je bidouille, je m'amuse et je développe surtout des apps privées, avec quelques projets publics quand ça s'y prête.
+La plupart de ce que je construis ne se retrouve pas forcément en public.
 
-Si vous avez envie d'encourager ce que je construis, c'est par ici : [GitHub Sponsors](https://github.com/sponsors/MathieuLF).
+Si vous avez envie d'encourager mes essais, mes outils et mes projets, c'est par ici : [GitHub Sponsors](https://github.com/sponsors/MathieuLF).
