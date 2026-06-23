@@ -20,4 +20,6 @@ I build simple, solid web tools: sites, automations, data workflows and small sy
 
 ## Soutenir
 
-Si un outil vous aide, vous pouvez soutenir le temps passé à le maintenir sur [GitHub Sponsors](https://github.com/sponsors/MathieuLF).
+Je bidouille, je m'amuse et je développe surtout des apps privées, avec quelques projets publics quand ça s'y prête.
+
+Si vous avez envie d'encourager ce que je construis, c'est par ici : [GitHub Sponsors](https://github.com/sponsors/MathieuLF).
