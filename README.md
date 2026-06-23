@@ -18,7 +18,7 @@ I build simple, solid web tools: sites, automations, data workflows, integration
 ## Projets publics
 
 - [EmployeurD-MegaGest](https://github.com/MathieuLF/employeurd-coda-megagest) - utilitaire Windows local pour préparer un fichier MND pour MégaGest à partir d'une écriture détaillée EmployeurD.
-- [mathieu.pro](https://mathieu.pro) - point d'entrée public pour mes projets et services.
+- [mathieu.pro](https://mathieu.pro) - mon site perso, surtout un profil et quelques notes.
 
 ## Soutenir
 
