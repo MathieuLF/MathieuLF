@@ -1,27 +1,25 @@
-# Mathieu Lapointe-Fiset
+# Hey, I'm Mathieu 👋
 
-Je suis technicien comptable le jour, développeur web autodidacte le reste du temps.
+I'm an accounting technician by day and a self-taught web developer whenever curiosity takes over.
 
-Je bidouille, je m'amuse et je développe surtout des apps privées, avec quelques projets publics quand ça s'y prête.
+I build practical tools for real-world problems: small web apps, automations, data workflows, integrations, and the occasional oddly specific utility that saves someone a few hours.
 
-Mon terrain de jeu : web, automatisation, données, intégrations et outils maison.
+Most of my work lives behind the scenes, but I share the projects that can be useful to others.
 
-I build simple, solid web tools: sites, automations, data workflows, integrations and small private apps that stay easy to use.
+## What I build with
 
-## Ce que je touche
+- **Web:** HTML, CSS, JavaScript, PHP, and SQL.
+- **Automation:** useful scripts, Excel, VBA, imports, exports, and reconciliations.
+- **Data:** large spreadsheets, migrations, validation, and reporting.
+- **Integrations:** APIs, forms, internal tools, and smoother ways to get work done.
 
-- Web : HTML, CSS, JavaScript, PHP et SQL.
-- Automatisation : scripts utiles, Excel, VBA, imports, exports et rapprochements.
-- Données : gros tableaux, migrations, validations et rapports.
-- Intégrations : API, formulaires, outils internes et petits chemins plus efficaces.
+## How I like to work
 
-## Projets publics
+- Keep the interface simple.
+- Make the result easy to verify.
+- Treat sensitive data with care.
+- Build for the person who will actually use it.
 
-- [EmployeurD-MegaGest](https://github.com/MathieuLF/employeurd-coda-megagest) - utilitaire Windows local pour préparer un fichier MND pour MégaGest à partir d'une écriture détaillée EmployeurD.
-- [mathieu.pro](https://mathieu.pro) - mon site perso, surtout un profil et quelques notes.
+## Keep the experiments going
 
-## Soutenir
-
-La plupart de ce que je construis ne se retrouve pas forcément en public.
-
-Si vous avez envie d'encourager mes essais, mes outils et mes projets, c'est par ici : [GitHub Sponsors](https://github.com/sponsors/MathieuLF).
+Most of what I build never becomes a public repository. If you'd like to support the tools, experiments, and useful little ideas that do, you can find me on [GitHub Sponsors](https://github.com/sponsors/MathieuLF).
