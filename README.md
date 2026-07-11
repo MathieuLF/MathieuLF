@@ -13,11 +13,6 @@ Most of my work lives behind the scenes, but I share the projects that can be us
 - **Data:** large spreadsheets, migrations, validation, and reporting.
 - **Integrations:** APIs, forms, internal tools, and smoother ways to get work done.
 
-## Out in the open
-
-- [**EmployeurD-MegaGest**](https://github.com/MathieuLF/employeurd-coda-megagest) — a local Windows utility that turns detailed EmployeurD entries into validated MND files for MégaGest.
-- [**mathieu.pro**](https://mathieu.pro) — my personal corner of the web: part profile, part notebook, part playground.
-
 ## How I like to work
 
 - Keep the interface simple.
