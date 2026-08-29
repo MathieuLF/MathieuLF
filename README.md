@@ -6,6 +6,12 @@ I build practical tools for real-world problems: small web apps, automations, da
 
 Most of my work lives behind the scenes, but I share the projects that can be useful to others.
 
+This repository only renders my public GitHub profile. It is not an application, hosted service, deployment manifest, or claim that any linked experiment is currently online.
+
+## Repository lifecycle
+
+The profile changes as public interests and projects evolve. Individual repositories remain the authority for their own status, setup, validation and license.
+
 ## What I build with
 
 - **Web:** HTML, CSS, JavaScript, PHP, and SQL.
@@ -23,3 +29,7 @@ Most of my work lives behind the scenes, but I share the projects that can be us
 ## Keep the experiments going
 
 Most of what I build never becomes a public repository. If you'd like to support the tools, experiments, and useful little ideas that do, you can find me on [GitHub Sponsors](https://github.com/sponsors/MathieuLF).
+
+## Privacy and license
+
+Please do not post credentials, private infrastructure details, client data, or personal records in public issues or discussions. Unless a linked repository states otherwise in its own license, this profile text and its assets are not offered under an open-source license.
